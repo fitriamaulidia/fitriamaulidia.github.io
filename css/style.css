@@ -1,0 +1,25 @@
+/* Start Body */
+body {
+    background-color: wheat;
+    color: black
+}
+/* End Body */
+
+/* Start Debug */
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-red {
+    background-color:red;
+}
+
+/* Start Debug */
+
+/* Start Container*/
+.container {
+    margin:20px auto:
+    overflow: auto;
+    width:80%;
+}
+/* End Container*/
